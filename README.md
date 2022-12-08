@@ -5,6 +5,8 @@
 
 ### Hi there 👋
 ### I'm Haruka Nakashima😊
+### I'm studying these Languages and Tools:point_down:
+
 <!--
 **HarukaNakashima/HarukaNakashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
