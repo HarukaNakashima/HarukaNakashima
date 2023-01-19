@@ -11,7 +11,7 @@
 
 ### I'm studying AWS SAA:point_down:
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/94016735/213329700-4205855b-2df9-4bac-8e79-2d32cff48679.png)
-
+<img alt="aws-certified-cloud-practitioner"src="https://user-images.githubusercontent.com/94016735/213329700-4205855b-2df9-4bac-8e79-2d32cff48679.png" width="40" height="40"/>
 
 <!--
 **HarukaNakashima/HarukaNakashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
